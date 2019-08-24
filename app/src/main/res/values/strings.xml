@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Profitable</string>
+    <string name="calculate">Calculate</string>
+    <string name="info">These calculations are based on the API provided at
+        \nhttps://www.alloscomp.com/bitcoin/calculator by Eric Swanson
+    </string>
+    <string name="main_definition">* This app will calculate your expected earnings in dollars over various time periods
+        (day, week, month and also year). \n* It provides only instantaneous calculations. \n* Do not forget to
+        calculate your electrical costs.
+    </string>
+    <string name="daily">Daily :</string>
+    <string name="weekly">Weekly :</string>
+    <string name="monthly">Monthly :</string>
+    <string name="yearly">Yearly :</string>
+    <string name="placeholder">Text Here</string>
+    <string name="please_enter_your_btc_hash_rate">Please enter your BTC hash rate .</string>
+    <string name="dollar_sign">$</string>
+</resources>
